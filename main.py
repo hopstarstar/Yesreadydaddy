@@ -13,8 +13,8 @@ BOT_TOKEN = "8301751505:AAGMrreQgWuEhDpjA_dmYDP0viNueMJMVE4"
 ADMIN_ID = 5952515002
 
 CODES = {
-    "test1": "https://example.com/1",
-    "test2": "https://example.com/2",
+    "8D3c": "https://mega.nz/folder/DB9XTZbB#4OTr7_IYHzlvvx8Qb9qq2g",
+    "7w0G": "https://cloud.mail.ru/public/65gp/gfPVTuvF7",
     "test3": "https://example.com/3",
     "test4": "https://example.com/4",
     "test5": "https://example.com/5"
