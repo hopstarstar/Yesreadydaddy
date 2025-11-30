@@ -9,7 +9,7 @@ from telegram.ext import (
     filters
 )
 
-BOT_TOKEN = "8301751505:AAGMrreQgWuEhDpjA_dmYDP0viNueMJMVE4"
+BOT_TOKEN = "8301751505:AAGI40o0LKp2YO2t3D7UI_xzWkgjgmwHfMg"
 ADMIN_ID = 5952515002
 
 CODES = {
@@ -132,5 +132,5 @@ async def main():
     await app.run_polling()
 
 if __name__ == "__main__":
-    import asyncio
-    asyncio.run(main())
+    main()
+    
